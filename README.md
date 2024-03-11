@@ -1,5 +1,7 @@
 # Chrome_Excel_AutoFill
-Excel_AutoFill through element id
+Excel_AutoFill through element id <br />
+This Program is written in Chrome Extension Manifest V3! </ br>
+Chrome Version higher than v111 is required
 
 # xlsx.full.min.js is required
 https://docs.sheetjs.com/docs/getting-started/installation/standalone/ <br />
