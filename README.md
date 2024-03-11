@@ -17,3 +17,7 @@ https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js
 ![alt text](https://github.com/INONULL/Chrome_Excel_AutoFill/blob/main/Screenshot/howto2.png?raw=true) <br />
 # How-to 3 <br />
 ![alt text](https://github.com/INONULL/Chrome_Excel_AutoFill/blob/main/Screenshot/howto3.png?raw=true) <br />
+# How-to 4 <br />
+![alt text](https://github.com/INONULL/Chrome_Excel_AutoFill/blob/main/Screenshot/howto4.png?raw=true) <br />
+# How-to 5 <br />
+![alt text](https://github.com/INONULL/Chrome_Excel_AutoFill/blob/main/Screenshot/howto5.png?raw=true) <br />
